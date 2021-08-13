@@ -9,3 +9,6 @@ React Testing Flow (Means in all react app we can go with same workflow)
 We are following 
 React testing library for unit testing, integration testing 
 Zest using as assertion library 
+
+Always use one assertion per test case 
+do not use multiple assertion in one single test. This is best practice
